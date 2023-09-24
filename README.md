@@ -1,7 +1,7 @@
 [![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://swastik1510.io)
 <h1 align="center">Hi 👋, I'm Swastik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 
 - 🔭 I’m currently working on **Web Development Projects**
 
