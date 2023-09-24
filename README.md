@@ -1,7 +1,7 @@
 [![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://swastik1510.io)
 <h1 align="center">Hi 👋, I'm Swastik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.bing.com/images/search?view=detailV2&ccid=vJjJ3Mdo&id=FE41FC52BDAC5F086BDC88DE96A0FD84A6A85AFD&thid=OIP.vJjJ3Mdok6Rvxx85IIRqBQHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1708950%2fscreenshots%2f4188877%2fdeveloper_med.gif&exph=600&expw=800&q=Coding+GIF+Carrton&simid=608015791694612481&FORM=IRPRST&ck=45B2650838834E90264FB65E1F858FDB&selectedIndex=88](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 - 🔭 I’m currently working on **Web Development Projects**
 
