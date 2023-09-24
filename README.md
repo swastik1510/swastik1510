@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sawstik7387@gmail.com**
 
-- ⚡ Fun fact **I am always ready to exchange knowledge**
+- ⚡ Fun fact **I'm always up for knowledge exchange**
 
 
 <p align="left">
