@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **DSA, Frontend Development**
 
-- 📫 How to reach me **sawstik7387@gmail.com**
+- 📫 How to reach me **swastik7387@gmail.com**
 
 - ⚡ Fun fact **I'm always up for knowledge exchange**
 
