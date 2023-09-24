@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **DSA, Web Development, React JS and**
+- 🌱 I’m currently learning **DSA, Web Development, React JS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
