@@ -1,14 +1,14 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hi 👋, I'm Swastik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring Business Analyst from India</h3>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Business Intelligence Tools**
 
-- 🌱 I’m currently learning **DSA, Web Development**
+- 🌱 I’m currently learning **Microsoft Excel, Power BI, Tableau, SQL**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Business Analysis Projects**
 
-- 💬 Ask me about **DSA, Frontend Development**
+- 💬 Ask me about **Data Visualization Tools**
 
 - 📫 How to reach me **swastik7387@gmail.com**
 
